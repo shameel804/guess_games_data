@@ -1,0 +1,14 @@
+[
+    {"name": "Mobile 1", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Console 1", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Mobile 2", "lvls": 20, "cost": 400, "star": 35, "cover": 0},
+    {"name": "Mobile 3", "lvls": 20, "cost": 800, "star": 55, "cover": 0},
+    {"name": "Console 2", "lvls": 20, "cost": 1000, "star": 75, "cover": 0},
+    {"name": "Retro 1", "lvls": 20, "cost": 1300, "star": null, "cover": 0},
+    {"name": "Mobile 4", "lvls": 20, "cost": 800, "star": 95, "cover": 0},
+    {"name": "Console 3", "lvls": 20, "cost": 1000, "star": 105, "cover": 0},
+    {"name": "Mobile 5", "lvls": 20, "cost": 800, "star": 115, "cover": 0},
+    {"name": "Console 4", "lvls": 20, "cost": 1000, "star": 125, "cover": 0},
+    {"name": "Retro 2", "lvls": 20, "cost": 1300, "star": null, "cover": 0},
+    {"name": "Console 5", "lvls": 20, "cost": 1000, "star": 135, "cover": 0}
+]

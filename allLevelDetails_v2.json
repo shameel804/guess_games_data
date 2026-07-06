@@ -1,0 +1,426 @@
+[
+    {
+        "name": "Mobile 1",
+        "type": "Mobile Games",
+        "lvls": 20,
+        "cost": 0,
+        "star": 0,
+        "cover": 0
+    },
+    {
+        "name": "Console 1",
+        "type": "Console Games",
+        "lvls": 20,
+        "cost": 0,
+        "star": 0,
+        "cover": 0
+    },
+    {
+        "name": "Mobile 2",
+        "type": "Mobile Games",
+        "lvls": 20,
+        "cost": 400,
+        "star": 17,
+        "cover": 0
+    },
+    {
+        "name": "Mobile 3",
+        "type": "Mobile Games",
+        "lvls": 20,
+        "cost": 800,
+        "star": 26,
+        "cover": 0
+    },
+    {
+        "name": "Console 2",
+        "type": "Console Games",
+        "lvls": 20,
+        "cost": 1000,
+        "star": 38,
+        "cover": 0
+    },
+    {
+        "name": "Retro 1",
+        "type": "Retro Games",
+        "lvls": 20,
+        "cost": 1300,
+        "star": null,
+        "cover": 0
+    },
+    {
+        "name": "Mobile 4",
+        "type": "Mobile Games",
+        "lvls": 20,
+        "cost": 800,
+        "star": 48,
+        "cover": 0
+    },
+    {
+        "name": "Console 3",
+        "type": "Console Games",
+        "lvls": 20,
+        "cost": 1000,
+        "star": 53,
+        "cover": 0
+    },
+    {
+        "name": "Mobile 5",
+        "type": "Mobile Games",
+        "lvls": 20,
+        "cost": 800,
+        "star": 58,
+        "cover": 0
+    },
+    {
+        "name": "Console 4",
+        "type": "Console Games",
+        "lvls": 20,
+        "cost": 1000,
+        "star": 63,
+        "cover": 0
+    },
+    {
+        "name": "Retro 2",
+        "type": "Retro Games",
+        "lvls": 20,
+        "cost": 1300,
+        "star": null,
+        "cover": 0
+    },
+    {
+        "name": "Console 5",
+        "type": "Console Games",
+        "lvls": 20,
+        "cost": 1000,
+        "star": 68,
+        "cover": 0
+    },
+    {
+        "name": "Retro 3",
+        "type": "Retro Games",
+        "lvls": 20,
+        "cost": 1300,
+        "star": null,
+        "cover": 0
+    },
+    {
+        "name": "Game Reviews 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 11",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 12",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 13",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 14",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 15",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 16",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 17",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Game Reviews 18",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Reviews",
+        "des": "Guess the game from its funny store review"
+    },
+    {
+        "name": "Gamer Search History 1",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 11",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 12",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 13",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Gamer Search History 14",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Gamer Search History",
+        "des": "Guess the game from the player's search history"
+    }
+]

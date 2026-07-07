@@ -422,5 +422,245 @@
         "cover": 0,
         "type": "Gamer Search History",
         "des": "Guess the game from the player's search history"
+    },
+    {
+        "name": "Game Resumes 1",
+        "lvls": 15,
+        "cost": 0,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": 23,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": 34,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": 43,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 5",
+        "lvls": 15,
+        "cost": 61,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 6",
+        "lvls": 15,
+        "cost": 78,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 11",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 12",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 13",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Resumes 14",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Resumes",
+        "des": "Guess the game from the character's resume"
+    },
+    {
+        "name": "Game Emojis 1",
+        "lvls": 15,
+        "cost": 0,
+        "star": 0,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
+    },
+    {
+        "name": "Game Emojis 2",
+        "lvls": 15,
+        "cost": 150,
+        "star": 15,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
+    },
+    {
+        "name": "Game Emojis 3",
+        "lvls": 15,
+        "cost": 150,
+        "star": 22,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
+    },
+    {
+        "name": "Game Emojis 4",
+        "lvls": 15,
+        "cost": 150,
+        "star": 39,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
+    },
+    {
+        "name": "Game Emojis 5",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
+    },
+    {
+        "name": "Game Emojis 6",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
+    },
+    {
+        "name": "Game Emojis 7",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
+    },
+    {
+        "name": "Game Emojis 8",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
+    },
+    {
+        "name": "Game Emojis 9",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
+    },
+    {
+        "name": "Game Emojis 10",
+        "lvls": 15,
+        "cost": 150,
+        "star": null,
+        "is_text": true,
+        "cover": 0,
+        "type": "Game Emojis",
+        "des": "Guess the game from the emojis"
     }
 ]

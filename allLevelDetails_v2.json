@@ -5,7 +5,8 @@
         "lvls": 20,
         "cost": 0,
         "star": 0,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Mobile 2",
@@ -13,7 +14,8 @@
         "lvls": 20,
         "cost": 150,
         "star": 17,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Mobile 3",
@@ -21,7 +23,8 @@
         "lvls": 20,
         "cost": 150,
         "star": 26,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Mobile 4",
@@ -29,7 +32,8 @@
         "lvls": 20,
         "cost": 150,
         "star": 48,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Mobile 5",
@@ -37,7 +41,8 @@
         "lvls": 20,
         "cost": 175,
         "star": 58,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Console 1",
@@ -45,7 +50,8 @@
         "lvls": 20,
         "cost": 0,
         "star": 0,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Console 2",
@@ -53,7 +59,8 @@
         "lvls": 20,
         "cost": 150,
         "star": 38,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Console 3",
@@ -61,7 +68,8 @@
         "lvls": 20,
         "cost": 150,
         "star": 53,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Console 4",
@@ -69,7 +77,8 @@
         "lvls": 20,
         "cost": 150,
         "star": 63,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Console 5",
@@ -77,7 +86,8 @@
         "lvls": 20,
         "cost": 175,
         "star": 68,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Retro 1",
@@ -85,7 +95,8 @@
         "lvls": 20,
         "cost": 0,
         "star": 0,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Retro 2",
@@ -93,7 +104,8 @@
         "lvls": 20,
         "cost": 150,
         "star": 72,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Retro 3",
@@ -101,7 +113,8 @@
         "lvls": 20,
         "cost": 150,
         "star": null,
-        "cover": 0
+        "cover": 0,
+        "is_star": true
     },
     {
         "name": "Game Reviews 1",
@@ -111,7 +124,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 2",
@@ -121,7 +135,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 3",
@@ -131,7 +146,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 4",
@@ -141,7 +157,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 5",
@@ -151,7 +168,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 6",
@@ -161,7 +179,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 7",
@@ -171,7 +190,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 8",
@@ -181,7 +201,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 9",
@@ -191,7 +212,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 10",
@@ -201,7 +223,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 11",
@@ -211,7 +234,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 12",
@@ -221,7 +245,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 13",
@@ -231,7 +256,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 14",
@@ -241,7 +267,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 15",
@@ -251,7 +278,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 16",
@@ -261,7 +289,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 17",
@@ -271,7 +300,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Game Reviews 18",
@@ -281,7 +311,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Reviews",
-        "des": "Guess the game from its funny store review"
+        "des": "Guess the game from its funny store review",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 1",
@@ -291,7 +322,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 2",
@@ -301,7 +333,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 3",
@@ -311,7 +344,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 4",
@@ -321,7 +355,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 5",
@@ -331,7 +366,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 6",
@@ -341,7 +377,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 7",
@@ -351,7 +388,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 8",
@@ -361,7 +399,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 9",
@@ -371,7 +410,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 10",
@@ -381,7 +421,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 11",
@@ -391,7 +432,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 12",
@@ -401,7 +443,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 13",
@@ -411,7 +454,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Gamer Search History 14",
@@ -421,7 +465,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Gamer Search History",
-        "des": "Guess the game from the player's search history"
+        "des": "Guess the game from the player's search history",
+        "is_star": true
     },
     {
         "name": "Game Resumes 1",
@@ -431,7 +476,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 2",
@@ -441,7 +487,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 3",
@@ -451,7 +498,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 4",
@@ -461,7 +509,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 5",
@@ -471,7 +520,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 6",
@@ -481,7 +531,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 7",
@@ -491,7 +542,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 8",
@@ -501,7 +553,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 9",
@@ -511,7 +564,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 10",
@@ -521,7 +575,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 11",
@@ -531,7 +586,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 12",
@@ -541,7 +597,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 13",
@@ -551,7 +608,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Resumes 14",
@@ -561,7 +619,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Resumes",
-        "des": "Guess the game from the character's resume"
+        "des": "Guess the game from the character's resume",
+        "is_star": true
     },
     {
         "name": "Game Emojis 1",
@@ -571,7 +630,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     },
     {
         "name": "Game Emojis 2",
@@ -581,7 +641,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     },
     {
         "name": "Game Emojis 3",
@@ -591,7 +652,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     },
     {
         "name": "Game Emojis 4",
@@ -601,7 +663,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     },
     {
         "name": "Game Emojis 5",
@@ -611,7 +674,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     },
     {
         "name": "Game Emojis 6",
@@ -621,7 +685,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     },
     {
         "name": "Game Emojis 7",
@@ -631,7 +696,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     },
     {
         "name": "Game Emojis 8",
@@ -641,7 +707,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     },
     {
         "name": "Game Emojis 9",
@@ -651,7 +718,8 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     },
     {
         "name": "Game Emojis 10",
@@ -661,6 +729,7 @@
         "is_text": true,
         "cover": 0,
         "type": "Game Emojis",
-        "des": "Guess the game from the emojis"
+        "des": "Guess the game from the emojis",
+        "is_star": true
     }
 ]

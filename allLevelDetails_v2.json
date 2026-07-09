@@ -90,6 +90,24 @@
         "is_star": true
     },
     {
+        "name": "Console 6",
+        "type": "Console Games",
+        "lvls": 20,
+        "cost": 175,
+        "star": 80,
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Console 7",
+        "type": "Console Games",
+        "lvls": 20,
+        "cost": 175,
+        "star": 98,
+        "cover": 0,
+        "is_star": true
+    },
+    {
         "name": "Retro 1",
         "type": "Retro Games",
         "lvls": 20,

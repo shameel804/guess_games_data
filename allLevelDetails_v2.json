@@ -756,7 +756,7 @@
         "lvls": 12,
         "cost": 0,
         "star": 0,
-        "cover": 0,
+        "cover": 2,
         "des": "Guess the Application name by seeing the app's screenshot.",
         "is_star": true
     },
@@ -766,7 +766,7 @@
         "lvls": 10,
         "cost": 150,
         "star": null,
-        "cover": 0,
+        "cover": 2,
         "des": "Guess the Application name by seeing the app's screenshot.",
         "is_star": true
     },
@@ -776,7 +776,7 @@
         "lvls": 10,
         "cost": 150,
         "star": null,
-        "cover": 0,
+        "cover": 7,
         "des": "Guess the Application name by seeing the app's screenshot.",
         "is_star": true
     },
@@ -786,7 +786,7 @@
         "lvls": 10,
         "cost": 150,
         "star": null,
-        "cover": 0,
+        "cover": 8,
         "des": "Guess the Application name by seeing the app's screenshot.",
         "is_star": true
     },
@@ -796,7 +796,7 @@
         "lvls": 10,
         "cost": 150,
         "star": null,
-        "cover": 0,
+        "cover": 4,
         "des": "Guess the Application name by seeing the app's screenshot.",
         "is_star": true
     },
@@ -846,7 +846,7 @@
         "lvls": 10,
         "cost": 150,
         "star": null,
-        "cover": 0,
+        "cover": 4,
         "des": "Guess the Application name by seeing the app's screenshot.",
         "is_star": true
     },
@@ -871,12 +871,12 @@
         "is_star": true
     },
     {
-        "name": "Remember These?",
+        "name": "Remember These",
         "type": "Apps",
         "lvls": 25,
         "cost": 150,
         "star": null,
-        "cover": 0,
+        "cover": 5,
         "des": "Guess the Application name by seeing the old Nostalgic app's screenshot.",
         "is_star": true
     }

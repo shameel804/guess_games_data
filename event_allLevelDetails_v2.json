@@ -1,0 +1,96 @@
+[
+    {
+        "name": "Best of 2000s",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 0,
+        "star": 0,
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Best of 2010s",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 150,
+        "star": 15,
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Best of 2020",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 150,
+        "star": 30,
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Best of 2021",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 150,
+        "star": 45,
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Best of 2022",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 175,
+        "star": 60,
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Best of 2023",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 175,
+        "star": 75,
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Best of 2024",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 200,
+        "star": 90,
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Game of the Year Winners",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 200,
+        "star": 105,
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Best Indie Game Winners",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 250,
+        "star": 120,
+        "is_text": true,
+        "des": "Guess the Best Indie Game from its winning review quote",
+        "cover": 0,
+        "is_star": true
+    },
+    {
+        "name": "Best Narrative Winners",
+        "type": "Awarded Games",
+        "lvls": 20,
+        "cost": 250,
+        "star": 135,
+        "is_text": true,
+        "des": "Guess the Award-Winning Narrative Game from a plot summary",
+        "cover": 0,
+        "is_star": true
+    }
+]
